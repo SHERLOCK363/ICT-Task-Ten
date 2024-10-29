@@ -1,0 +1,10 @@
+Steps
+  -> Open VSCodium and create a new file named index.html
+  -> Create another file named Submit.html in the same directory
+  -> Create a file named style.css in the same direcory
+  -> Move your CSS code from index.html inro style.css(you might not have     added any yet, so lets add some basic styles):
+  -> Inindex.html, include the script tag that link to your javascript file.
+  -> Create a file named script.js 
+  -> Open the command palette in VSCodium (ctrl + shift + P or Cmd + Shift + P).
+  -> Type "Live Server" and select "Live Server: Open with Live Server".
+  -> your index.html page should open in your browser
